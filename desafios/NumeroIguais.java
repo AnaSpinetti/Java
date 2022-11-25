@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class App {
+public class NumeroIguais {
 
     public static void main(String[] args) {
 

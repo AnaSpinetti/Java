@@ -4,7 +4,7 @@
 
 import java.util.*;
 
-public class Desafio {
+public class DesafioFizzBuzz {
 
     public static void main(String[] args) {
 
